@@ -62,13 +62,13 @@ $
 ```
 ## Mandatory Tasks
  - [x] 0. README, man, AUTHORS
- - [x] 1. Betty would be proud
- - [x] 2. Simple shell 0.1
- - [x] 3. Simple shell 0.2
- - [x] 4. Simple shell 0.3
- - [x] 5. Simple shell 0.4
- - [x] 6. Simple shell 1.0
- - [x] 7. What happens when you type `ls -l \*.c` in the shell
+ - [x] 1. Betty would be proud or TASK 0
+ - [x] 2. Simple shell 0.1 or TASK 1
+ - [x] 3. Simple shell 0.2 or TASK 2
+ - [x] 4. Simple shell 0.3 or TASK 3
+ - [x] 5. Simple shell 0.4 or TASK 4
+ - [x] 6. Simple shell 1.0 or TASK 5
+ - [x] 7. What happens when you type `ls -l \*.c` in the shell 6. Simple shell 0.1.1 
 ## Advanced Tasks
  - [x] 8. Test suite
  - [x] 9. Simple shell 0.1.1
