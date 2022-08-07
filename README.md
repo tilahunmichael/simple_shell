@@ -71,20 +71,20 @@ $
  - [x] 6. Simple shell 1.0
  - [x] 7. What happens when you type `ls -l \*.c` in the shell
 ## Advanced Tasks
- - [ ] 8. Test suite
- - [ ] 9. Simple shell 0.1.1
- - [ ] 10. Simple shell 0.2.1
- - [ ] 11. Simple shell 0.4.1
- - [ ] 12. Simple shell 0.4.2
- - [ ] 13. setenv, unsetenv
- - [ ] 14. cd
- - [ ] 15. ;
- - [ ] 16. && and ||
- - [ ] 17. alias
- - [ ] 18. Variables
- - [ ] 19. Comments
- - [ ] 20. help
- - [ ] 21. history
- - [ ] 22. File as input 
+ - [x] 8. Test suite
+ - [x] 9. Simple shell 0.1.1
+ - [x] 10. Simple shell 0.2.1
+ - [x] 11. Simple shell 0.4.1
+ - [x] 12. Simple shell 0.4.2
+ - [x] 13. setenv, unsetenv
+ - [x] 14. cd
+ - [x] 15. ;
+ - [x] 16. && and ||
+ - [x] 17. alias
+ - [x] 18. Variables
+ - [x] 19. Comments
+ - [x] 20. help
+ - [x] 21. history
+ - [x] 22. File as input 
 
  Project to be done in teams of 2 people (your team: Adetoun Lawal, tilahun debele)
