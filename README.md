@@ -20,9 +20,8 @@ This project, `simple_shell`, is a custom implementation of a simple UNIX shell 
 	* [Examples](#Examples)
 * [Mandatory Tasks](#Mandatory-Tasks)
 * [Advanced Tasks](#Advanced-Tasks)
-* [Bugs](#Bugs)
 * [Authors](Authors)
-* [License](#License)
+
 
 ## File Descriptions
 * [AUTHORS](AUTHORS) - It lists the contributors of this project
