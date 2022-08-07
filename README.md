@@ -20,7 +20,7 @@ This project, `simple_shell`, is a custom implementation of a simple UNIX shell 
 	* [Examples](#Examples)
 * [Mandatory Tasks](#Mandatory-Tasks)
 * [Advanced Tasks](#Advanced-Tasks)
-* [Authors](Authors)
+* [Authors](#Authors)
 
 
 ## File Descriptions
@@ -86,4 +86,5 @@ $
  - [x] 21. history
  - [x] 22. File as input 
 
- Project to be done in teams of 2 people (your team: Adetoun Lawal, tilahun debele)
+ ##Authors
+Project to be done in teams of 2 people (your team: Adetoun Lawal, tilahun debele)
