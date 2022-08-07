@@ -1,5 +1,5 @@
 # simple_shell
-Project and AB SEREBE, Daniel Beyene
+ Project to be done in teams of 2 people (your team: Adetoun Lawal, tilahun debele)
 
 ![image](https://user-images.githubusercontent.com/42976288/181915945-b5f30e8c-fa24-426c-bdf7-1ac57b3532f2.png)
 
@@ -87,3 +87,4 @@ $
  - [ ] 21. history
  - [ ] 22. File as input 
 
+ Project to be done in teams of 2 people (your team: Adetoun Lawal, tilahun debele)
